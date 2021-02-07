@@ -5,7 +5,7 @@ function getHTMLEmail(teacher) {
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
     <style type="text/css">
-      ol {
+      ol { 
         margin: 0;
         padding: 0;
       }
